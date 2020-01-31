@@ -14,3 +14,4 @@
 12. [页面性能类](https://github.com/Moking1997/Daily-Question/blob/master/11-20/12.md)
 13. [错误监控类](https://github.com/Moking1997/Daily-Question/blob/master/11-20/13.md)
 14. [三/四 面](https://github.com/Moking1997/Daily-Question/blob/master/1-10/14.md)
+15. [ES6](https://github.com/Moking1997/Daily-Question/blob/master/1-10/15.md)
