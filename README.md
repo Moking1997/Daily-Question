@@ -1,4 +1,4 @@
-# 每天一题面试题 / 编程题
+# 编程笔记
 1. [假设高度已知,写出三栏布局,其中左右栏宽度各为300px,中间自适应](https://github.com/Moking1997/Daily-Question/blob/master/1-10/1.md) 
 2. [css 盒模型](https://github.com/Moking1997/Daily-Question/blob/master/1-10/2.md)
 3. [:after清除浮动的原理和方法](https://github.com/Moking1997/Daily-Question/blob/master/1-10/3.md)
@@ -23,4 +23,4 @@
 20. [ES6 模块化](https://github.com/Moking1997/Daily-Question/blob/master/11-20/20.md)
 
 21. [正则](https://github.com/Moking1997/Daily-Question/blob/master/21-30/21.md)
-22. [JSON](https://github.com/Moking1997/Daily-Question/blob/master/21-30/22.md)
+22. [从浏览器地址栏输入 url 到显示页面的步骤](https://github.com/Moking1997/Daily-Question/blob/master/21-30/22.md)
