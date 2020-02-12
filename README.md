@@ -25,3 +25,6 @@
 21. [正则](https://github.com/Moking1997/Daily-Question/blob/master/21-30/21.md)
 22. [从浏览器地址栏输入 url 到显示页面的步骤](https://github.com/Moking1997/Daily-Question/blob/master/21-30/22.md)
 23. [将 koa 和 vue 项目部署到服务器](https://github.com/Moking1997/Daily-Question/blob/master/21-30/23.md)
+
+# Interview
+1. [JS 的类型相关](https://github.com/Moking1997/Daily-Question/blob/master/interview/1.md)
