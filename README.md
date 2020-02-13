@@ -28,3 +28,5 @@
 
 # Interview
 1. [JS 的类型相关](https://github.com/Moking1997/Daily-Question/blob/master/interview/1.md)
+2. [深浅拷贝](https://github.com/Moking1997/Daily-Question/blob/master/interview/2.md)
+2. [防抖和节流](https://github.com/Moking1997/Daily-Question/blob/master/interview/2.md)
